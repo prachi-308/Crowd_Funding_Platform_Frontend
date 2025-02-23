@@ -35,7 +35,7 @@ export default function HopeSection() {
         <p className="text-lg italic md:text-xl">
           <span className="text-3xl text-yellow-400">“</span>
           To contribute to the structural improvement of the health of
-          disadvantaged groups in South East Asia
+          disadvantaged groups
           <span className="text-3xl text-yellow-400">”</span>
         </p>
       </motion.div>
